@@ -7,6 +7,10 @@ This repository provides a streamlined installer that prevents SolidWorks 2025 f
 ## 🔍 The Problem
 SolidWorks 2025 includes background license verification checks. If you apply a standard crack but keep your PC connected to the internet, the software may detect the modification and **disable the crack** – often silently, forcing you to reapply the patch repeatedly.
 
+<div align="center">
+  <img src="Media/Error.jpg" alt="Error" width="350">
+</div>
+
 ## ✅ What This Fix Does
 This installer permanently patches the local installation to block the online verification mechanism. Specifically, it:
 
